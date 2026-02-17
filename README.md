@@ -17,6 +17,21 @@ Checkpoint on the project handed out on Week 1:
 Well done! :trollface:
 
 ## Week 2
+Students are required to perform Differentially Expressed Genes (DEG) analysis using GEO2R by selecting a public transcriptomics dataset based on their preference.\
+Through this project students are expected to:
+- Become familiar with and confidently use the public database Gene Expression Omnibus (GEO).
+- Be able to evaluate and select transcriptomics datasets that are appropriate for their analytical needs.
+- Understand the workflow of differential gene expression (DEG) analysis using the web-based tool GEO2R and be able to interpret the results accurately.
+
+Checkpoint on the project handed out on Week 1:
+- [x] Quiz
+- [x] Learning Module
+- [x] Learning Video
+- [x] GEO2R Analysis ([here](https://github.com/amndavan/BRSPOmicsLite2026/blob/a329a933c65f44fd4e1a0bcb77ab7ff0a2beff52/Week%201_Paper%20Summary%20Transcriptomics.pd](https://github.com/amndavan/BRSPOmicsLite2026/blob/main/51_Vania%20Amanda%20Samor_Week2.pdf))
+
+Well done! :trollface:
+
+
 ## Week 3
 ## Week 4
 ## Week 5
